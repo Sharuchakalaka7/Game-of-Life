@@ -1,6 +1,7 @@
 # Game-of-Life
 
 Course: ICS 4UI - Computer Science
+
 Institution: Bluevale Collegiate Institute
 
 This is a small model of John Connway's Game of Life simulation. This simulation is a supposed imitation of a bacterial model with certain boundaries and restrictions,
