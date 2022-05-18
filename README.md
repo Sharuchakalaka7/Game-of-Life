@@ -1,5 +1,7 @@
 # Game-of-Life
 
+Course: Introduction to Computer Science (ICS 4UI)
+
 This is a small model of John Connway's Game of Life simulation. This simulation is a supposed imitation of a bacterial model with certain boundaries and restrictions,
 which determine the whether the bacteria will survive or not in the next day.
 
